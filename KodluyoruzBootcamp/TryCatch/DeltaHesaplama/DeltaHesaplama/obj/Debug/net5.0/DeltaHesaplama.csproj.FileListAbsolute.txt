@@ -1,0 +1,16 @@
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\bin\Debug\net5.0\DeltaHesaplama.exe
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\bin\Debug\net5.0\DeltaHesaplama.deps.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\bin\Debug\net5.0\DeltaHesaplama.runtimeconfig.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\bin\Debug\net5.0\DeltaHesaplama.runtimeconfig.dev.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\bin\Debug\net5.0\DeltaHesaplama.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\bin\Debug\net5.0\ref\DeltaHesaplama.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\bin\Debug\net5.0\DeltaHesaplama.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\obj\Debug\net5.0\DeltaHesaplama.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\obj\Debug\net5.0\DeltaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\obj\Debug\net5.0\DeltaHesaplama.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\obj\Debug\net5.0\DeltaHesaplama.AssemblyInfo.cs
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\obj\Debug\net5.0\DeltaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\obj\Debug\net5.0\DeltaHesaplama.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\obj\Debug\net5.0\ref\DeltaHesaplama.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\obj\Debug\net5.0\DeltaHesaplama.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\TryCatch\DeltaHesaplama\DeltaHesaplama\obj\Debug\net5.0\DeltaHesaplama.genruntimeconfig.cache
