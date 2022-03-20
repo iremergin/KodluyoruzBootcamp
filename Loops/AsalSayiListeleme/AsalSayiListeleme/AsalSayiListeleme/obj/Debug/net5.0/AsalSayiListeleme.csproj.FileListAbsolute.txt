@@ -1,0 +1,16 @@
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\bin\Debug\net5.0\AsalSayiListeleme.exe
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\bin\Debug\net5.0\AsalSayiListeleme.deps.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\bin\Debug\net5.0\AsalSayiListeleme.runtimeconfig.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\bin\Debug\net5.0\AsalSayiListeleme.runtimeconfig.dev.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\bin\Debug\net5.0\AsalSayiListeleme.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\bin\Debug\net5.0\ref\AsalSayiListeleme.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\bin\Debug\net5.0\AsalSayiListeleme.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\obj\Debug\net5.0\AsalSayiListeleme.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\obj\Debug\net5.0\AsalSayiListeleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\obj\Debug\net5.0\AsalSayiListeleme.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\obj\Debug\net5.0\AsalSayiListeleme.AssemblyInfo.cs
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\obj\Debug\net5.0\AsalSayiListeleme.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\obj\Debug\net5.0\AsalSayiListeleme.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\obj\Debug\net5.0\ref\AsalSayiListeleme.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\obj\Debug\net5.0\AsalSayiListeleme.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiListeleme\AsalSayiListeleme\AsalSayiListeleme\obj\Debug\net5.0\AsalSayiListeleme.genruntimeconfig.cache

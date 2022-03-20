@@ -1,0 +1,16 @@
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\bin\Debug\net5.0\AsalSayiBelirleme.exe
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\bin\Debug\net5.0\AsalSayiBelirleme.deps.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\bin\Debug\net5.0\AsalSayiBelirleme.runtimeconfig.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\bin\Debug\net5.0\AsalSayiBelirleme.runtimeconfig.dev.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\bin\Debug\net5.0\AsalSayiBelirleme.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\bin\Debug\net5.0\ref\AsalSayiBelirleme.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\bin\Debug\net5.0\AsalSayiBelirleme.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\obj\Debug\net5.0\AsalSayiBelirleme.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\obj\Debug\net5.0\AsalSayiBelirleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\obj\Debug\net5.0\AsalSayiBelirleme.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\obj\Debug\net5.0\AsalSayiBelirleme.AssemblyInfo.cs
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\obj\Debug\net5.0\AsalSayiBelirleme.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\obj\Debug\net5.0\AsalSayiBelirleme.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\obj\Debug\net5.0\ref\AsalSayiBelirleme.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\obj\Debug\net5.0\AsalSayiBelirleme.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\Loops\AsalSayiBelirleme\AsalSayiBelirleme\obj\Debug\net5.0\AsalSayiBelirleme.genruntimeconfig.cache
