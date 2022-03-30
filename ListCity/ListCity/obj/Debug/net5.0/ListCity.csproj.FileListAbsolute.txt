@@ -1,0 +1,16 @@
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\bin\Debug\net5.0\ListCity.exe
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\bin\Debug\net5.0\ListCity.deps.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\bin\Debug\net5.0\ListCity.runtimeconfig.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\bin\Debug\net5.0\ListCity.runtimeconfig.dev.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\bin\Debug\net5.0\ListCity.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\bin\Debug\net5.0\ref\ListCity.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\bin\Debug\net5.0\ListCity.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\obj\Debug\net5.0\ListCity.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\obj\Debug\net5.0\ListCity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\obj\Debug\net5.0\ListCity.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\obj\Debug\net5.0\ListCity.AssemblyInfo.cs
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\obj\Debug\net5.0\ListCity.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\obj\Debug\net5.0\ListCity.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\obj\Debug\net5.0\ref\ListCity.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\obj\Debug\net5.0\ListCity.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\List\ListCity\ListCity\obj\Debug\net5.0\ListCity.genruntimeconfig.cache
